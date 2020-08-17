@@ -1,3 +1,3 @@
 # LetspUgrade-Aws-Assignment
 ### This repository contains the assignment submission for 
-### LetsUpgrade AWS Course of Day-3 of Batch-1
+### LetsUpgrade AWS Course for Day-3 of Batch-1
